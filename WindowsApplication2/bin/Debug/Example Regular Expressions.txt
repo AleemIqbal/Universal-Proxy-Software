@@ -1,0 +1,47 @@
+Note:
+morCrawler evaluates 'Group 1' of the regular expression
+
+
+Standard Combo
+((?:[a-zA-Z0-9]{5,}):(?:[a-zA-Z0-9]{5,}))
+Looks for and saves pattern: User:Pass
+
+
+Email Combo
+([a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,6}:(?:[a-zA-Z0-9]{5,}))
+Looks for and saves pattern: Email:Pass
+
+
+Numeric Combo
+(\b[0-9]{5,}:[0-9]{5,})
+Looks for and saves pattern NumericUser:NumericPass
+
+
+URL Combo
+([hHtTpPs]{4,5}://[a-zA-Z0-9]{5,}:[a-zA-Z0-9]{5,}@[a-zA-Z0-9._%+-/]+)
+Looks for pattern of type: http(s)://User:Pass@SomeSite.com
+Saves: http(s)://User:Pass@SomeSite.com
+
+
+URL Combo
+[hHtTpPs]{4,5}://([a-zA-Z0-9]+:[a-zA-Z0-9]+)@
+Looks for pattern of type: http(s)://User:Pass@SomeSite.com
+Saves: User:Pass
+
+
+URL Email Combo
+([hHtTpPs]{4,5}://[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,6}:(?:[a-zA-Z0-9]{5,})@[a-zA-Z0-9._%+-/]+)
+Looks for pattern of type: http(s)://Email:Pass@SomeSite.com
+Saves: http(s)://Email:Pass@SomeSite.com
+
+
+URL Email Combo
+[hHtTpPs]{4,5}://([a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,6}:(?:[a-zA-Z0-9]{5,}))@[a-zA-Z0-9._%+-/]+
+Looks for pattern of type: http(s)://Email:Pass@SomeSite.com
+Saves: Email:Pass
+
+
+
+
+
+

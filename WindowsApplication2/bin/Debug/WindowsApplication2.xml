@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication2
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.Screenshot_28">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.Screenshot_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WindowsApplication2.Helpers">
+ <summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ Version: 1.0.3
+ Date Created: 17/06/2013
+ Date Changed: 20/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:WindowsApplication2.FlatAlertBox.W">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:WindowsApplication2.FlatAlertBox.H">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

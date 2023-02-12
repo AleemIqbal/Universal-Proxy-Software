@@ -1,0 +1,3 @@
+http://www.google.com/search?q=[SEARCH SEED]
+http://www.bing.com/search?q=[SEARCH SEED]
+http://uk.search.yahoo.com/search?p=[SEARCH SEED]
