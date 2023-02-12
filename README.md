@@ -9,107 +9,77 @@ Other features of Universal Proxy Software 2.0 include a Mega Proxy Checker, whi
 
 In conclusion, Universal Proxy Software 2.0 is an all-in-one solution for proxy management, offering a wide range of features that are essential for proxy management. With its user-friendly design and powerful capabilities, it is a must-have tool for anyone who needs to manage proxies.
 
-![Universal-Proxy-Software](https://i.imgur.com/Ns2CgKJ.png)
+![image](https://user-images.githubusercontent.com/10142670/218336519-88f153b2-895f-439b-bdde-94ed38776777.png)
+
 
 #Features:
 Proxy Grabber
-Proxy Checker
-Proxy(IP) Changer
 Mega Proxy Grabber
-Mega Proxy Checker
+Proxy Lists URL Scrapper
+IP Changer
 Auto Proxy Changer
-Proxy Editor
-Proxy Leecher
-Proxy Scrapper
+Proxy Checker
+Mega Proxy Checker
+IP:Port Separater
 Mega Proxy Editor
+Mega IP:Port Combiner
+Proxy Leecher
 Mega Proxy Leecher
-Mega Proxy Scrapper
-Proxy Combiner
-Proxy Lookup
 Text Proxy Leecher
-Mega Proxy Combiner
-Mega Proxy Lookup
 Mega Text Proxy Leecher
-Mor Crawler
-Proxy Viewer
-Proxy URL Grabber
+Proxy URL Grabbar
+Proxy Browser
+
+Proxy Grabbar:
+![image](https://user-images.githubusercontent.com/10142670/218336624-a7fdce02-bcb9-4e62-aa7f-734b8e804a18.png)
+
+Mega Proxy Grabbar:
+![image](https://user-images.githubusercontent.com/10142670/218336642-0aee3c13-3319-40bb-9bca-2b1f7b0955c3.png)
+
+Proxy Scrapper:
+![image](https://user-images.githubusercontent.com/10142670/218336657-9efab0c6-6287-4f6f-8783-f46799d56255.png)
+
 
 #Proxy Checker:
 Proxy Checker is used to check proxies.It can check proxies upto 10k.This Proxy Checker is very advanced and Fast and with many features.
 
 #Proxy Changer:
 Proxy Changer is used to change your ip.It is useful in acessing blocked websites.
-![Proxy-Changer](https://i.imgur.com/XSgqLoE.png)
 
-#Mega Proxy Grabber:
-Mega Proxy Grabber Grabs a larget amount of proxy from different sources like Hidemyass.
-![Mega-Proxy-Grabber](https://i.imgur.com/n8KMNFI.png)
+IP Changer:
+![image](https://user-images.githubusercontent.com/10142670/218336685-9d6e97d8-1a37-48df-9efc-8fc46cdf50e4.png)
 
-#Mega Proxy Checker:
-Mega Proxy Checker is very fast and it can support a large amount of proxies.
-![Mega-Proxy-Grabber](https://i.imgur.com/YuK0tHg.png)
+Auto Proxy Changer:
+![image](https://user-images.githubusercontent.com/10142670/218336708-672bc5a0-caa6-4e7d-a3b7-e467c9ade8d3.png)
 
-#Auto Proxy Changer:
-Auto Proxy Changer changes our ip automatically.
-![Auto-Proxy-Changer](https://i.imgur.com/gxwIcVn.png)
+Universal Proxy Checker:
+![image](https://user-images.githubusercontent.com/10142670/218336724-c9f43885-d0ab-4e4d-be1d-d55585b3aa61.png)
 
-#Proxy Editor:
-Proxy Editor is very advaced proxy editor.It can save data from text box 1 AND text box 2.Switch their positions.
-![Proxy-Editor](https://i.imgur.com/YeHaQV3.png)
+Mega Proxy Checker:
+![image](https://user-images.githubusercontent.com/10142670/218336748-feb047d3-e1e2-4761-b6e9-1fdfa8665916.png)
 
-#Proxy Leecher:
-Proxy Leecher is used to leech proxy from url.
-![Proxy-Leecher](https://i.imgur.com/YeHaQV3.png)
+Universal Proxy Editor:
+![image](https://user-images.githubusercontent.com/10142670/218336871-6ce343d6-675d-4a35-9b7b-6e50c351910f.png)
 
-#Proxy Scrapper:
-Proxy is used to scrap  links for leeching proxies.
-![Proxy-Scrapper](https://i.imgur.com/EvEWQwf.png)
+Mega Proxy Editor:
+![image](https://user-images.githubusercontent.com/10142670/218336905-c427e165-149f-481a-af70-1208792fe302.png)
 
-#Mega Proxy Editor:
-Mega Proxy Editor is used to edit large amount of proxy.It can save data from text box 1 AND text box 2.Switch their positions and join them with different delimieter.
-![Mega-Proxy-Editor](https://i.imgur.com/PD5zzP5.png)
+Mega Proxy Combiner:
+![image](https://user-images.githubusercontent.com/10142670/218336925-917e29d5-382b-43f1-8db8-2a8fb026edc8.png)
 
-#Mega Proxy Leecher:
-Mega Proxy Leecher is used to leech proxy from many urls.
-![Mega-Proxy-Leecher](https://i.imgur.com/hwb9lUB.png)
+Univeral Proxy Leecher:
+![image](https://user-images.githubusercontent.com/10142670/218336944-173a5dc3-568a-4b88-8c32-32a464aa07be.png)
 
-#Mega Proxy Scrapper:
-Mega Proxy Scrapper is used to scrap proxy from text using many services.
-![Mega-Proxy-Scrapper](https://i.imgur.com/zNbcX5Y.png)
+Mega Proxy Leecher: ![image](https://user-images.githubusercontent.com/10142670/218336959-c17d5b5b-d160-4a02-8efa-fc17e9950ce9.png)
 
-#Proxy Combiner:
-Proxy Combiner is used to combine ip and ports.
-![Proxy-Combiner](https://i.imgur.com/jzFdteu.png)
+Text Proxy Leecher:
+![image](https://user-images.githubusercontent.com/10142670/218336969-0a61a446-9c33-4a53-95d3-337c065deab5.png)
 
-#Proxy Lookup:
-Proxy Lookup is used to get details of a ip.
-![Proxy-Lookup](https://i.imgur.com/jzFdteu.png)
+Extract Proxies from Text:
+![image](https://user-images.githubusercontent.com/10142670/218336995-b9d2115e-c3d8-4e91-a77e-d6ebfe806b39.png)
 
-#Text Proxy Leecher:
-Text Proxy Leecher is used to Leech proxy from text.
-![Text-Proxy-Leecher](https://i.imgur.com/E049pDD.png)
+Proxy URL Grabber:
+![image](https://user-images.githubusercontent.com/10142670/218337023-0d9a97cd-63f8-4a51-a21a-a7646ded71e5.png)
 
-#Mega Proxy Combiner:
-Mega proxy combiner is used to combine larger amount of ip and pass.
-![Mega-Proxy-Combiner](https://i.imgur.com/7yst8AK.png)
-
-#Mega Proxy Combiner:
-Mega Proxy Lookup is used to get details of many ips.
-![Mega-Proxy-Lookup](https://i.imgur.com/T8JhZQM.png)
-
-#Mega Proxy Text Leecher:
-Mega Proxy Text Leecher is used to leech proxies from big txt files.
-![Mega-Proxy-Text-Leecher](https://i.imgur.com/svitJDr.png)
-
-#Mor Crawler:
-Mor Crawler is one of the best feature of universal proxy software.It can leech proxies upto millions.
-![Mor-Crawler](https://i.imgur.com/llCOQfO.png)
-
-#Proxy Viewer:
-Proxy Viewer is a Browser Based on Proxy.We can browse websites with proxy.
-![Proxy-Viewer](https://i.imgur.com/cb551ud.png)
-
-#Proxy URL Grabber:
-Proxy URL Grabber is used to collect links using keywords.
-![Proxy-URL-Grabber](https://i.imgur.com/Q3F0AhW.png)
-
+Proxy Browser:
+![image](https://user-images.githubusercontent.com/10142670/218337036-2019f5ec-f9f4-42ce-8b6d-c8e5191dad9b.png)
